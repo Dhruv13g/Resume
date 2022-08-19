@@ -1,0 +1,24 @@
+body
+{
+    background-color :rgb(232, 240, 240);
+}
+hr{
+    
+    border-style:none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    
+}
+h3
+{
+    color: aqua;
+}
+h1{
+    color: brown;
+}
+img{
+    border-radius: 50%;
+    width: 250px;
+    height: 200px;
+}
